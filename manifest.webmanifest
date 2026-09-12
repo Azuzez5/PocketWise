@@ -1,0 +1,17 @@
+{
+  "name": "PocketWise — Quản lý tiền cho sinh viên",
+  "short_name": "PocketWise",
+  "description": "Theo dõi chi tiêu, ngân sách, mục tiêu và dự báo dòng tiền.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eef6ff",
+  "theme_color": "#337bff",
+  "lang": "vi",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
